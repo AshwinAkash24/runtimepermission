@@ -29,12 +29,14 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the process of runtimepermission in android mobile devices”.
-Developed by:
-Registeration Number :
+Developed by: Ashwin Akash M
+Registeration Number : 212223230024
 */
 ```
 
 ## OUTPUT
+<img width="1913" height="1068" alt="image" src="https://github.com/user-attachments/assets/1e5ce7a9-a47b-467b-84d7-3dd063018bec" />
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/5f699724-2b9e-4cea-bac2-de63f011717a" />
 
 
 
